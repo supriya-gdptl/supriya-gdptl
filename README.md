@@ -6,7 +6,8 @@
 - ℹ️ For more info *please visit my webpage: [supriya-gdptl.github.io](http://supriya-gdptl.github.io)*
 
 
-- 🌱 Completed Course: MLOps - CI/CD for ML ([Certificate](https://www.credential.net/embed/ddc13172-dc7a-4617-9319-2135cee0193d))
+- 🌱 Completed Certificate Course: MLOps - CI/CD for ML ([Certificate](https://www.credential.net/embed/ddc13172-dc7a-4617-9319-2135cee0193d))
+- 🌱 Completed Certificate Course: Generative AI Large Language Models(LLM) ([Certificate](https://coursera.org/share/92686437a3e6cfd9a09221bb64fb366d))
 
 <!---drawing, painting🎨, art & craft, playing badminton, apart from - 
 🌱 I’m currently learning to *work with different co-ordinate systems in Computer Graphics.* (wish me luck 😅)--->
