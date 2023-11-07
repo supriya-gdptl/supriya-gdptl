@@ -8,6 +8,9 @@
 
 - 🌱 Completed Certificate Course: MLOps - CI/CD for ML ([Certificate](https://www.credential.net/embed/ddc13172-dc7a-4617-9319-2135cee0193d))
 - 🌱 Completed Certificate Course: Generative AI Large Language Models(LLM) ([Certificate](https://coursera.org/share/92686437a3e6cfd9a09221bb64fb366d))
+- 🏆 Completed 200 LeetCode problems
+  
+  <img src="https://github.com/supriya-gdptl/supriya-gdptl/blob/main/leetcode_200problem_milestone.png" width="800" height="350"/>
 
 <!---drawing, painting🎨, art & craft, playing badminton, apart from - 
 🌱 I’m currently learning to *work with different co-ordinate systems in Computer Graphics.* (wish me luck 😅)--->
