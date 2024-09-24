@@ -8,7 +8,8 @@
 
 
 
-- 🌟 Wrote a blog on: [Story Illustrator Using GPT-4o and Flux.1-dev](https://supriya27.substack.com/p/story-illustrator-using-gpt-4o-and?r=3sbxbk)
+- 🌟 Wrote a blog on: [Story Illustrator Using GPT-4o and Flux.1-dev](https://open.substack.com/pub/supriya27/p/story-illustrator-using-gpt-4o-and?r=3sbxbk&utm_campaign=post&utm_medium=web)
+- https://open.substack.com/pub/supriya27/p/story-illustrator-using-gpt-4o-and?r=3sbxbk
 - 🌱 Completed Certificate Course: MLOps - CI/CD for ML ([Certificate](https://www.credential.net/embed/ddc13172-dc7a-4617-9319-2135cee0193d))
 - 🌱 Completed Certificate Course: Generative AI Large Language Models(LLM) ([Certificate](https://coursera.org/share/92686437a3e6cfd9a09221bb64fb366d))
 - 🏆 Completed 200 LeetCode problems
